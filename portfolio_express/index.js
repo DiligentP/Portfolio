@@ -7,7 +7,7 @@ app.listen(port, () => {
 })
 
 app.get('/' ,function (req, res) {
-	res.send('Hello World')
+	res.sendFile('C:\Users\dilig\Documents\portfolio\index.html')
 })
 
 app.get('/user/:id', (req, res) => {
@@ -19,4 +19,3 @@ app.get('/user', (req, res) => {
 	const data = req.query
     res.send(data)
 })
-

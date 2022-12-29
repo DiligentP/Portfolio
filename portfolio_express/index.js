@@ -6,10 +6,6 @@ app.listen(port, () => {
     console.log(`express server open port : ${port} =>  http://localhost:3000`)
 })
 
-app.get('/' ,function (req, res) {
-	res.sendFile('C:\Users\dilig\Documents\portfolio\index.html')
-})
-
 app.get('/user/:id', (req, res) => {
 	const data = req.params
     res.send(data)

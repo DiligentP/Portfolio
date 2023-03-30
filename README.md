@@ -4,11 +4,11 @@
 ```
 # 가상환경 생성
 cd myproject
-python -m venv .venv
+python -m venv venv
 
 # 가상환경 접속
-$ . .venv/bin/activate   # Linux
-$ . .venv/Script/activate  # Windows
+. myproject/venv/bin/activate   # Linux
+myproject/venv/Script/activate  # Windows
 
 # 가상환경 패키지 설치
 pip install -r requirements.txt

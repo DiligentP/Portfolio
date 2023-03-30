@@ -9,7 +9,7 @@
 
 2022-07 ~ 2023-02 - [엘비텍(주)](http://lvtek.co.kr/home/main.php) IPP 목포대학교 일학습병행 - 시스템 백업 엔지니어
 
-2023-03 ~ ㅤㅤㅤㅤ- [멀티캠퍼스 KDT - 클라우드(MSA) 서비스 엔지니어](https://www.notion.so/MSA-01550d3c5b22470189f0f25c9c7f356e) 교육 수강중
+2023-03 ~ ㅤㅤㅤㅤ- [멀티캠퍼스 KDT - 클라우드(MSA) 서비스 엔지니어](https://diligentp.notion.site/MSA-01550d3c5b22470189f0f25c9c7f356e) 교육 수강중
 
 <br>
 
@@ -32,5 +32,5 @@
 <br>
 
 ## 자격증
-- 2022-07  : [정보처리기사](https://www.notion.so/422a4868e50c4698b98ead8058985476)
+- 2022-07  : [정보처리기사](https://diligentp.notion.site/422a4868e50c4698b98ead8058985476)
 

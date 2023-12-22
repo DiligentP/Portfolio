@@ -1,2 +1,8 @@
+# Python VEnv
 venv
+
+## Jetbrains
 .idea
+
+## Django
+__pycache__
